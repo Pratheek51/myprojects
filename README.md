@@ -1,2 +1,2 @@
 # myprojects
-This is a text repository for my project.Thank you.
+This is a test repository for my project.Thank you.
